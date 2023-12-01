@@ -11,6 +11,6 @@ package ejemplo;
 public class ParaBorrar {
 
     public static void main(String[] args) {
-        System.out.println("Está lloviendo");
+        System.out.println("Ha salido el sol");
     }
 }
